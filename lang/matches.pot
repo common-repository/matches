@@ -1,0 +1,206 @@
+# Copyright (C) 2012 Matches
+# This file is distributed under the same license as the Matches package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Matches 0.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/matches\n"
+"POT-Creation-Date: 2012-01-26 09:32:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin_options.php:22 matches.php:111
+msgid "Matches options"
+msgstr ""
+
+#: admin_options.php:27
+msgid "Upcoming matches in list"
+msgstr ""
+
+#: admin_options.php:30
+msgid "None"
+msgstr ""
+
+#: admin_options.php:43
+msgid "Your team name"
+msgstr ""
+
+#: admin_options.php:47
+msgid "Your team location"
+msgstr ""
+
+#: admin_options.php:51
+msgid "Your team logo"
+msgstr ""
+
+#: admin_options.php:55
+msgid "Date format"
+msgstr ""
+
+#: admin_options.php:58
+msgid "Custom format: "
+msgstr ""
+
+#: admin_options.php:58
+msgid "Documentation on formatting"
+msgstr ""
+
+#: admin_options.php:59
+msgid "Localize time to match visitor timezone"
+msgstr ""
+
+#: admin_options.php:60
+msgid ""
+"Timezone to convert from for localization (example values: \"+1\", \"-3\")"
+msgstr ""
+
+#: admin_options.php:64
+msgid "Save Changes"
+msgstr ""
+
+#: widget.php:75
+msgid "Next match"
+msgstr ""
+
+#: widget.php:76
+msgid "Previous match"
+msgstr ""
+
+#: widget.php:107 widget.php:178
+msgid "No upcoming matches."
+msgstr ""
+
+#: widget.php:158
+msgid "No previous matches."
+msgstr ""
+
+#: widget.php:166
+msgid "Upcoming matches"
+msgstr ""
+
+#: widget.php:168
+msgid "h"
+msgstr ""
+
+#: widget.php:169
+msgid "a"
+msgstr ""
+
+#: admin_teams.php:46 matches.php:110
+msgid "Manage teams"
+msgstr ""
+
+#: admin_teams.php:50 admin_teams.php:57
+msgid "Name"
+msgstr ""
+
+#: admin_teams.php:51 admin_teams.php:58
+msgid "Logo"
+msgstr ""
+
+#: admin_teams.php:78 admin_matches.php:93
+msgid "Edit"
+msgstr ""
+
+#: admin_teams.php:83 admin_matches.php:98
+msgid "Delete"
+msgstr ""
+
+#: admin_teams.php:91
+msgid "Team name"
+msgstr ""
+
+#: admin_teams.php:92
+msgid "Logo URL"
+msgstr ""
+
+#: admin_teams.php:95 admin_matches.php:132
+msgid "Add"
+msgstr ""
+
+#: admin_teams.php:106 admin_matches.php:166
+msgid "Save"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Matches 0.5)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: matches.php:108
+msgid "Matches"
+msgstr ""
+
+#: matches.php:109 admin_matches.php:50
+msgid "Manage matches"
+msgstr ""
+
+#: matches.php:111
+msgid "Options"
+msgstr ""
+
+#: matches.php:115 matches.php:121 matches.php:127
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: admin_matches.php:54 admin_matches.php:66
+msgid "Time"
+msgstr ""
+
+#: admin_matches.php:55 admin_matches.php:67 admin_matches.php:114
+msgid "Location"
+msgstr ""
+
+#: admin_matches.php:56 admin_matches.php:68
+msgid "Field override"
+msgstr ""
+
+#: admin_matches.php:57 admin_matches.php:69
+msgid "Opponent"
+msgstr ""
+
+#: admin_matches.php:58 admin_matches.php:70 admin_matches.php:127
+msgid "Your score"
+msgstr ""
+
+#: admin_matches.php:59 admin_matches.php:71 admin_matches.php:128
+msgid "Opponents score"
+msgstr ""
+
+#: admin_matches.php:60 admin_matches.php:72 admin_matches.php:129
+msgid "Link"
+msgstr ""
+
+#: admin_matches.php:113
+msgid "0000-00-00 00:00:00"
+msgstr ""
+
+#: admin_matches.php:117 admin_matches.php:150
+msgid "Don't override"
+msgstr ""
+
+#: admin_matches.php:118 admin_matches.php:151
+msgid "Home"
+msgstr ""
+
+#: admin_matches.php:119 admin_matches.php:152
+msgid "Away"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://nemrod.se/wordpress/matches-wordpress-plugin"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin makes it easy to administer and display matches (sports or "
+"otherwise) with a neat widget."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Anders Mårtensson"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://nemrod.se"
+msgstr ""
